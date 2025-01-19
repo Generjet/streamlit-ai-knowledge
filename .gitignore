@@ -1,0 +1,4 @@
+.venv/
+.venv/*
+pgvector-sample/.venv/
+pgvector-sample/.venv/*
