@@ -1,0 +1,27 @@
+
+# 2025-01-16 22:09:55.204019
++y
+
+# 2025-01-16 22:20:04.468531
++create streamlit app that user can input 'database_url','database_username','database_password','port','database_type' which can be mysql,postgresql,sqlite and connect to database. When connects it can show tables, user can input data by input field.
+
+# 2025-01-16 22:20:26.235286
++y
+
+# 2025-01-16 22:20:43.848124
++/run pip install streamlit sqlalchemy pandas mysqlclient psycopg2-binary
+
+# 2025-01-16 22:20:43.851099
++/run pip install streamlit sqlalchemy pandas mysqlclient psycopg2-binary
+
+# 2025-01-16 22:20:56.590930
++/run streamlit run database_app.py
+
+# 2025-01-16 22:20:56.596457
++/run streamlit run database_app.py
+
+# 2025-01-16 22:21:47.062344
++y
+
+# 2025-01-16 22:36:12.520459
++exit
