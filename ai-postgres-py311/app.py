@@ -109,7 +109,7 @@ if __name__ == "__main__":
     ### TITLE ###
 
     # Add title to the Streamlit chatbot app
-    st.title("🤖 AI Database Chatbot 🤓")
+    st.title("🤖 AI Database Chatbot - データベースチャットボット 🤓")
 
 
 
